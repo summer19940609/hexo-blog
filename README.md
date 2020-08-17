@@ -1,4 +1,5 @@
-# hexo-blog
+# 已废弃，改为使用hugo生成
+## hexo-blog
 博客发布内容备份管理
 
 
